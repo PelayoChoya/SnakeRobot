@@ -33,7 +33,6 @@ void setup()
   //-- locomotion. They can be changed using the
   //-- methods: SetA, SetO, SetT, SetPd and SetPh0
   worm.SetT(3000);  //-- Ej. Setting the freq. to 3 sec
-  worm.SetPd(20);
   worm.SetA(50);    //-- Ej. setting the amplitude to 60 deg.
 }
 
